@@ -1,14 +1,8 @@
-# Leaflet Maps with Google Sheets
-Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
+# 2020 Homicides in Little Rock and North Little Rock
 
-![Preview](preview.jpg)
-
-## Live links (replace with your own)
-- Leaflet Map https://adgnewsroom.github.io/2020homicides/index.html
+## Live links
+- Leaflet Map https://adgnewsroom.github.io/2020homicides/
 - Google Sheets template https://docs.google.com/spreadsheets/d/10jiFVCgmIK0MxDUHJrhaMq4Vu9njnHp-JHZesGh9A2U/edit#gid=0
-
-## Create your own
-- See video with step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-maps-with-google-sheets.html
 
 ## Credits (and licenses)
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT, using a [Google Sheets](https://www.google.com/sheets/about/) template, with these open-source components:
@@ -29,7 +23,3 @@ Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](h
 - jQuery-CSV (v0.71) https://github.com/evanplaice/jquery-csv (MIT)
 - DataTables (v1.10.13) by SpryMedia Ltd. https://datatables.net (MIT)
 - [Leaflet Control Geocoder](https://github.com/perliedman/leaflet-control-geocoder) by @perliedman (BSD 2-Clause)
-
-## Please submit any pull requests to our DEV repo
-- Leaflet Map FOR DEVELOPMENT https://jackdougherty.github.io/leaflet-maps-with-google-sheets-dev/index.html
-- Google Sheet FOR DEVELOPMENT https://docs.google.com/spreadsheets/d/1_xjrH3gSImzRKqIkhRAqpAAMjH387yaBWfGbidkKtqM/
