@@ -1,4 +1,4 @@
-# 2020 Homicides in Little Rock and North Little Rock
+# 2021 Homicides in Little Rock and North Little Rock
 
 ## Live links
 - Leaflet Map https://adgnewsroom.github.io/2021homicides/
